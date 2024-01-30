@@ -1,0 +1,42 @@
+My favourite dish is borscht. I first tried it in childhood and love it until now!
+
+There are many vegetables: carrots, beetroots, onions, and beans. But also there is meat. The borscht is red and tasty. My mother usually cooks it on weekends.
+
+I also love pizza, salads, and pasta. But borscht is my favourite!
+also: 2
+and: 4
+are: 1
+beans: 1
+beetroots: 1
+borscht: 3
+but: 2
+carrots: 1
+childhood: 1
+cooks: 1
+dish: 1
+favourite: 2
+first: 1
+i: 2
+in: 1
+is: 4
+it: 3
+love: 2
+many: 1
+meat: 1
+mother: 1
+my: 3
+now: 1
+on: 1
+onions: 1
+pasta: 1
+pizza: 1
+red: 1
+salads: 1
+tasty: 1
+the: 1
+there: 2
+tried: 1
+until: 1
+usually: 1
+vegetables: 1
+weekends: 1
