@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4dfb1b1d-1c60-41d1-98a8-dc79bf9f91ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Train">
+      <UniqueIdentifier>{f967b47d-7462-48bc-b91e-ef918b70e5ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Train.cpp">
+      <Filter>Train</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Train.h">
+      <Filter>Train</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
